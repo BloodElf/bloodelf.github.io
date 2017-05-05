@@ -26,7 +26,7 @@ github_username:  bloodelf
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
 gems:
   - jekyll-feed
 exclude:
