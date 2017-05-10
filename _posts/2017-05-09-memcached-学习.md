@@ -2,7 +2,7 @@
 ## 一、Memcached内存分配
 ### 1. slab 划分内存空间
 memcached 进程开启后，会划分一段连续的内存空间（默认64mb），之后再将内存空间划分成不同的slab。每一个slab只负责一定范围内的数据。只有满足该大小范围的数据才会存储到对应的slab中。
-![](./images/pic1.png)
+![](../../../images/pic1.png)
 
 如上图，1-88byte 大小的数据将存储至slab1中。89-112bytes大小的数据将存放在slab2中。memcached 默认情况下下一个slab中的chunk大小是前一个的1.25倍。该增长因子可以在启动memcached 时设定。（参数 -f）
 
@@ -208,11 +208,11 @@ function createRandomMsg($length = 1) {
 ```
 向memcached中随机存入1-9999byte的数据5000个，过期时间设置为1天。
 
-![](./images/pic2.png)
+![](../../../images/pic2.png)
 总共使用了 43.9MB 其中浪费了19.5MB的内存
-![](./images/pic3.png)
+![](../../../images/pic3.png)
 查看了slab使用情况 小容量的slab使用率很低。于是我重启服务将容量递增倍率调整为 1.5 重新写入5000个数据
-![](./images/pic4.png)
+![](../../../images/pic4.png)
 
-浪费的内存减少了。
+可以看见浪费的内存减少了。
 
