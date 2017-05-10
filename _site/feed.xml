@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-10T10:32:01+08:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-10T10:56:39+08:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/05/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-05-10T10:21:23+08:00</published><updated>2017-05-10T10:21:23+08:00</updated><id>http://localhost:4000/jekyll/update/2017/05/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/05/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -11,7 +11,68 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Memcached 学习</title><link href="http://localhost:4000/2017/05/09/memcached-%E5%AD%A6%E4%B9%A0.html" rel="alternate" type="text/html" title="Memcached 学习" /><published>2017-05-09T00:00:00+08:00</published><updated>2017-05-09T00:00:00+08:00</updated><id>http://localhost:4000/2017/05/09/memcached-%E5%AD%A6%E4%B9%A0</id><content type="html" xml:base="http://localhost:4000/2017/05/09/memcached-%E5%AD%A6%E4%B9%A0.html">&lt;h1 id=&quot;memcached-学习&quot;&gt;memcached 学习&lt;/h1&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Git 实用技巧</title><link href="http://localhost:4000/2017/05/10/git-%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7.html" rel="alternate" type="text/html" title="Git 实用技巧" /><published>2017-05-10T00:00:00+08:00</published><updated>2017-05-10T00:00:00+08:00</updated><id>http://localhost:4000/2017/05/10/git-%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7</id><content type="html" xml:base="http://localhost:4000/2017/05/10/git-%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7.html">&lt;p&gt;#Git 实用技巧&lt;/p&gt;
+&lt;h2 id=&quot;git-命令行查看提交记录&quot;&gt;git 命令行查看提交记录&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git log —graph —all -p —decorate —abbrev-commit
+ —graph 以图像显示
+ —all 显示所有分支
+ —decorate 显示所有分支名和 tag 名
+ —abbrev-commit 只显示简短的 hash 值
+ -p 显示提交的文件差异
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;从某一个提交开始重置所有提交&quot;&gt;从某一个提交开始重置所有提交&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git rebase -i hash
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;获取所有远程tag&quot;&gt;获取所有远程tag&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git fetch origin -t
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;推送所有本地新tag&quot;&gt;推送所有本地新tag&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git push origin --tags                                                                       
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;更新tag命令&quot;&gt;更新tag命令&lt;/h2&gt;
+&lt;p&gt;（将 orgin tag 更新至 new orign）&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git fetch origin --t &amp;amp;&amp;amp; git push new-origin --tags &amp;amp;&amp;amp; git tag -l | xargs git tag -d &amp;amp;&amp;amp; git fetch
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;删除所有本地tag&quot;&gt;删除所有本地tag&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git tag -l | xargs git tag -d
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;删除所有特定tag并推送&quot;&gt;删除所有特定tag并推送&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git tag | grep ZICE | xargs -n 1 git push --delete origin  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;获取所有远程tag-1&quot;&gt;获取所有远程tag&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git fetch
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;git如何删除版本库中的一个提交&quot;&gt;Git如何删除版本库中的一个提交&lt;/h2&gt;
+&lt;h3 id=&quot;非-master-分支未-merge-仅取消最后一次提交&quot;&gt;非 master 分支，未 merge 仅取消最后一次提交&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. git reset --hard HEAD~1
+2. git push --force
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h3 id=&quot;非-master-分支未-merge-删除过去的某一次提交&quot;&gt;非 master 分支，未 merge 删除过去的某一次提交&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git rebase -i 'hash'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;git-如何删除本地所有未提交的更改&quot;&gt;Git 如何删除本地所有未提交的更改&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git checkout -f &amp;amp;&amp;amp;  git clean -xdf &amp;amp;&amp;amp; git pull
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">#Git 实用技巧 git 命令行查看提交记录 git log —graph —all -p —decorate —abbrev-commit —graph 以图像显示 —all 显示所有分支 —decorate 显示所有分支名和 tag 名 —abbrev-commit 只显示简短的 hash 值 -p 显示提交的文件差异 从某一个提交开始重置所有提交 git rebase -i hash</summary></entry><entry><title type="html">Memcached 学习</title><link href="http://localhost:4000/2017/05/09/memcached-%E5%AD%A6%E4%B9%A0.html" rel="alternate" type="text/html" title="Memcached 学习" /><published>2017-05-09T00:00:00+08:00</published><updated>2017-05-09T00:00:00+08:00</updated><id>http://localhost:4000/2017/05/09/memcached-%E5%AD%A6%E4%B9%A0</id><content type="html" xml:base="http://localhost:4000/2017/05/09/memcached-%E5%AD%A6%E4%B9%A0.html">&lt;h1 id=&quot;memcached-学习&quot;&gt;memcached 学习&lt;/h1&gt;
 &lt;h2 id=&quot;一memcached内存分配&quot;&gt;一、Memcached内存分配&lt;/h2&gt;
 &lt;h3 id=&quot;1-slab-划分内存空间&quot;&gt;1. slab 划分内存空间&lt;/h3&gt;
 &lt;p&gt;memcached 进程开启后，会划分一段连续的内存空间（默认64mb），之后再将内存空间划分成不同的slab。每一个slab只负责一定范围内的数据。只有满足该大小范围的数据才会存储到对应的slab中。
@@ -223,9 +284,11 @@ function createRandomMsg($length = 1) {
 &lt;p&gt;向memcached中随机存入1-9999byte的数据5000个，过期时间设置为1天。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../../images/pic2.png&quot; alt=&quot;&quot; /&gt;
-总共使用了 43.9MB 其中浪费了19.5MB的内存
-&lt;img src=&quot;../../../images/pic3.png&quot; alt=&quot;&quot; /&gt;
-查看了slab使用情况 小容量的slab使用率很低。于是我重启服务将容量递增倍率调整为 1.5 重新写入5000个数据
-&lt;img src=&quot;../../../images/pic4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+总共使用了 43.9MB 其中浪费了19.5MB的内存&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../images/pic3.png&quot; alt=&quot;&quot; /&gt;
+查看了slab使用情况 小容量的slab使用率很低。于是我重启服务将容量递增倍率调整为 1.5 重新写入5000个数据&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../images/pic4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;可以看见浪费的内存减少了。&lt;/p&gt;</content><author><name></name></author><summary type="html">memcached 学习 一、Memcached内存分配 1. slab 划分内存空间 memcached 进程开启后，会划分一段连续的内存空间（默认64mb），之后再将内存空间划分成不同的slab。每一个slab只负责一定范围内的数据。只有满足该大小范围的数据才会存储到对应的slab中。</summary></entry></feed>

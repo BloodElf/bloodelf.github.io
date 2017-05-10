@@ -210,8 +210,10 @@ function createRandomMsg($length = 1) {
 
 ![](../../../images/pic2.png)
 总共使用了 43.9MB 其中浪费了19.5MB的内存
+
 ![](../../../images/pic3.png)
 查看了slab使用情况 小容量的slab使用率很低。于是我重启服务将容量递增倍率调整为 1.5 重新写入5000个数据
+
 ![](../../../images/pic4.png)
 
 可以看见浪费的内存减少了。
